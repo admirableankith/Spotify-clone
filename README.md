@@ -6,8 +6,7 @@ This project focuses on layout precision, component structuring, and modern CSS-
 🔗 Live Demo
 
 Live Site:
-https://your-username.github.io/spotify-clone/
-
+https://github.com/admirableankith/Spotify-clone
 Repository:
 https://github.com/your-username/spotify-clone
 
