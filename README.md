@@ -6,7 +6,7 @@ This project focuses on layout precision, component structuring, and modern CSS-
 🔗 Live Demo
 
 Live Site:
-https://github.com/admirableankith/Spotify-clone
+[https://github.com/admirableankith/Spotify-clone](https://spotify-j0g4rv3f9-admirableankiths-projects.vercel.app/)
 Repository:
 https://github.com/your-username/spotify-clone
 
